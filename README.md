@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-- 👯 I am Arpita Satsangi
-- 🔭 I’m currently pursueing Electrical Engineering
-- 🌱 I’m currently learning C++
+- 👯 I am Arpita Satsangi.
+- 📖 I’m currently pursuing Electrical Engineering.
+- 🌱 I’m currently learning C++.
 - 😄 Pronouns: She/her
 - ⚡ Hobbies: dancing, singing, reading, walking
 
