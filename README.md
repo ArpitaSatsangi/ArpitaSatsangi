@@ -1,5 +1,13 @@
 ### Hi there 👋
 
+- 👯 I am Arpita Satsangi
+- 🔭 I’m currently pursueing Electrical Engineering
+- 🌱 I’m currently learning C++
+- 😄 Pronouns: She/her
+- ⚡ Hobbies: dancing, singing, reading, walking
+
+
+
 <!--
 **ArpitaSatsangi/ArpitaSatsangi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
