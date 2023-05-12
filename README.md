@@ -7,7 +7,8 @@
 - ⚡ Hobbies: dancing, singing, reading, walking
 - 📫 LinkedIn: https://www.linkedin.com/in/arpita-satsangi-abs37161015/
 
-![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=ArpitaSatsangi&theme=blue-green)
+![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=ArpitaSatsangi&show_icons=true)
+
 
 <!--
 **ArpitaSatsangi/ArpitaSatsangi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
