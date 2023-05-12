@@ -7,12 +7,6 @@
 - ⚡ Hobbies: dancing, singing, reading, walking
 - 📫 LinkedIn: https://www.linkedin.com/in/arpita-satsangi-abs37161015/
 
-![Profile View Counter](https://komarev.com/ghpvc/?username=ArpitaSatsangi)
-
-
-![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=ArpitaSatsangi&show_icons=true)
-
-
 
 
 <!--
