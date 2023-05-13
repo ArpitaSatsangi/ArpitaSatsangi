@@ -11,7 +11,7 @@
 
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ArpitaSatsangi&layout=compact&theme=vision-friendly-dark)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ArpitaSatsangi&layout=compact&theme=vision-friendly-dark)]
 
 
 <!--
