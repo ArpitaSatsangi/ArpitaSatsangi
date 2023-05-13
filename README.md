@@ -7,7 +7,7 @@
 - ⚡ Hobbies: dancing, singing, reading, walking
 - 📫 LinkedIn: https://www.linkedin.com/in/arpita-satsangi-abs37161015/
 
-
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=ArpitaSatsangi&theme=dark)](https://git.io/streak-stats)
 
 <!--
 **ArpitaSatsangi/ArpitaSatsangi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
