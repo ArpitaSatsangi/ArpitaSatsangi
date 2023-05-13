@@ -5,7 +5,7 @@
 - 🌱 I’m currently learning Python and C++
 - 😄 Pronouns: She/her
 - ⚡ Hobbies: dancing, singing, reading, walking
-- 📫 LinkedIn: https://www.linkedin.com/in/arpita-satsangi-abs37161015/
+
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=ArpitaSatsangi&theme=dark)](https://git.io/streak-stats)
 
