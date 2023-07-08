@@ -2,7 +2,7 @@
 
 - 👯 I am Arpita Satsangi.
 - 📖 I’m currently pursuing Electrical Engineering.
-- 🌱 I’m currently learning Python and C++
+- 🌱 I’m currently learning Machine learning and Data science
 - 😄 Pronouns: She/her
 - ⚡ Hobbies: dancing, singing, reading, walking
 
