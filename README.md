@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 👯 I am Arpita Satsangi.
-- 📖 I’m currently pursuing Electrical Engineering.
+- 📖 I’m currently pursuing Electrical Engineering with specialization on Computer Science.
 - 🌱 I’m currently learning Machine learning and Data science
 - 😄 Pronouns: She/her
 - ⚡ Hobbies: dancing, singing, reading, walking
