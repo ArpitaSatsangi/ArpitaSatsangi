@@ -2,7 +2,6 @@
 
 - 👯 I am Arpita Satsangi.
 - 📖 I'm currently pursuing a degree in Electrical Engineering with a specialization in Computer Science.
-- 🌱 I’m currently learning java.
 - 😄 Pronouns: She/her
 - ⚡ Hobbies: dancing, singing, reading, walking
 
