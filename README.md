@@ -6,12 +6,14 @@
 - ⚡ Hobbies: dancing, singing, reading, walking
 
 
+[![GitHub Streak](https://streak-stats.demolab.com/?user=ArpitaSatsangi&theme=highcontrast)](https://git.io/streak-stats)
+
+<!--
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=ArpitaSatsangi&theme=dark)](https://git.io/streak-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ArpitaSatsangi&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
-<!--
 **ArpitaSatsangi/ArpitaSatsangi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
