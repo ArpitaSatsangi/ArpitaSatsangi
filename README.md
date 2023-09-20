@@ -5,7 +5,7 @@
 - 😄 Pronouns: She/her
 - ⚡ Hobbies: dancing, singing, reading, walking
 
-[![Harlok's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ArpitaSatsangi)](https://github.com/anuraghazra/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ArpitaSatsangi&show_icons=true&theme=dracula)
 
 <!--
 
