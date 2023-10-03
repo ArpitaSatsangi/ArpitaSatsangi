@@ -8,9 +8,9 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ArpitaSatsangi&hide_progress=true)
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=ArpitaSatsangi&theme=dark)](https://git.io/streak-stats)
-
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ArpitaSatsangi&show_icons=true&theme=dracula)
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=ArpitaSatsangi&theme=dark)](https://git.io/streak-stats)
 
 <!--
 
