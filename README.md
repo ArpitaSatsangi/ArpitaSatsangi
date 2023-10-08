@@ -4,7 +4,7 @@
 - 📖 I'm currently pursuing a degree in Electrical Engineering with a specialization in Computer Science.
 - 🌱 I’m currently learning SQL.
 - 😄 Pronouns: She/her
-- ⚡ Hobbies: dancing, singing, reading, walking
+- ⚡ Hobbies: dancing, singing, reading, writing, walking
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ArpitaSatsangi&hide_progress=true)
 
