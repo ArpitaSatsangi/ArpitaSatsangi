@@ -6,6 +6,8 @@
 - 😄 Pronouns: She/her
 - ⚡ Hobbies: dancing, singing, reading, writing, walking
 
+ ![](https://komarev.com/ghpvc/?username=ArpitaSatsangi&color=green)
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ArpitaSatsangi&hide_progress=true)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ArpitaSatsangi&show_icons=true&theme=dracula)
