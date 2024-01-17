@@ -4,7 +4,7 @@
 - 📖 I'm currently pursuing a degree in Electrical Engineering with a specialization in Computer Science.
 - 🌱 I’m currently learning machine learning.
 - 😄 Pronouns: She/her
-- ✨ Connect me on: www.linkedin.com/in/arpita-satsangi-abs37161015
+- ✨ Connect with me on: www.linkedin.com/in/arpita-satsangi-abs37161015
 - ⚡ Hobbies: dancing, singing, reading, writing, walking
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ArpitaSatsangi&hide_progress=true)
